@@ -1,0 +1,14 @@
+{
+  "name": "prototype-chat",
+  "version": "0.0.0",
+  "description": "233  git pull   234  cd ../   235  mkdir prototype-chat   236  cd prototype-chat/   237  touch README.md   238  git init   239  subl .   240  history 5   241  history 5 > README.md    242  history 10 > README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.5.5"
+  }
+}

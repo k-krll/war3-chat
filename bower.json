@@ -1,0 +1,19 @@
+{
+  "name": "prototype-chat",
+  "version": "0.0.0",
+  "authors": [
+    "ndsdmfwg <ndsdmfwg@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "pure": "~0.4.2"
+  }
+}
