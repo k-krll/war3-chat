@@ -1,9 +1,3 @@
-  226  git push -u origin dev
-  227  nohup google-chrome
-  228  subl
-  229  cd Projects/gulp-scaffold/
-  230  git fetch 
-  231  git pull
   232  git fetch 
   233  git pull
   234  cd ../
@@ -28,3 +22,9 @@
   253  git remote add origin https://github.com/krll-tk/prototype-chat.git
   254  git push -u origin master
   255  history 30 > README.md 
+  256  git add .
+  257  git commit -m 'Добавил .gitignore'
+  258  git push -u origin master
+  259  gulp
+  260  gulp > gulp.out
+  261  history 30 > README.md 
