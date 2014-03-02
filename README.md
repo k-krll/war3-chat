@@ -1,3 +1,8 @@
+  226  git push -u origin dev
+  227  nohup google-chrome
+  228  subl
+  229  cd Projects/gulp-scaffold/
+  230  git fetch 
   231  git pull
   232  git fetch 
   233  git pull
@@ -18,3 +23,8 @@
   248  npm i gulp --save-dev
   249  touch .gitignore gulpfile.js
   250  history 20 > README.md 
+  251  git add .
+  252  git commit -m 'Читай README.md!'
+  253  git remote add origin https://github.com/krll-tk/prototype-chat.git
+  254  git push -u origin master
+  255  history 30 > README.md 
