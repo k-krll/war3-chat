@@ -28,3 +28,8 @@
   266  rm README.md 
   267  git add .
   268  history 30 > README.txt
+  269  git add .
+  270  git commit -m 'Поменял с .md на .txt'
+  271  git push -u origin master
+  272  git rm README.md
+  273  history 35 > README.txt
