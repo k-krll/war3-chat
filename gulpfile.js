@@ -1,5 +1,5 @@
 var gulp = require('gulp');
 
-gulp.task('default', function(){
-  console.log('test');// задача которая будет срабатывать 
+gulp.task('test', function(){
+  console.log('test'); 
 });
