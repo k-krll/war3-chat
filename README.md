@@ -19,10 +19,10 @@ Quick start
 `$ npm install` or global `# npm -g i`
 
 ####To install the bower components:
-`$ /node_modules/.bin/bower install` and if you have global install `$ bower i`
+`$ ./node_modules/.bin/bower install` and if you have global install `$ bower i`
 
 ####To test a gulp:
-`$ /node_modules/.bin/gulp` or `$ gulp test` if you have global install
+`$ ./node_modules/.bin/gulp` or `$ gulp test` if you have global install
 
 ####To write code:
 We use a jQuery library, and a Pure - css framework...
@@ -34,6 +34,6 @@ For a thirty second quickstart, look at www.war3chat.tk/quickstart
 Get help
 --------
 
-If at this stage have any questions it is necessary write them into [issues](/)
+If at this stage have any questions it is necessary write them into [issues](https://github.com/krll-tk/prototype-chat/issues)
 
 Check out www.war3chat.tk/community
