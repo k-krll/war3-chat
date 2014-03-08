@@ -10,6 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.5.5",
-    "bower": "^1.2.8"
+    "bower": "^1.2.8",
+    "gulp-less": "^1.2.2",
+    "gulp-watch": "^0.5.2",
+    "gulp-coffee": "^1.4.1",
+    "gulp-markdown": "^0.1.2",
+    "gulp-jade": "^0.4.2",
+    "gulp-connect": "^1.0.7",
+    "gulp-stylus": "0.0.14"
   }
 }
